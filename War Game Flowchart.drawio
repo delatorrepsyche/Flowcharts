@@ -1,1 +1,34 @@
-<mxfile host="app.diagrams.net" modified="2020-08-31T12:14:55.102Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="p4E0D8F_nLIkG40C-QnJ" version="13.6.6" type="github"><diagram id="4dUsiJoH9ZfYqGRdszvZ" name="Page-1">jZLBboMwDIafhuMqIKvEtWPtdqk0CW3TdovAJVkTwoI7oE+/MBwoqirtFOfLbyf57YClunuyvBZ7U4AK4rDoAvYYxHEUssQtA+lHsk4IlFYWJJpBJs/gM4meZAHNQojGKJT1EuamqiDHBePWmnYpOxi1vLXmJVyBLOfqmr7LAsVIk3U482eQpfA3RyGdaO7FBBrBC9NeILYNWGqNwTHSXQpqMM/7MubtbpxOD7NQ4X8S4s355WP3nUZvr/WXtJ/7TX+8oyo/XJ3owxlyi/Ri7L0NDVpznBxwb38QqJULIxe6n9WDTnflMASrgzJtLlyZFYLVsuJorJO1QiJkNc8HbeuUjtH1YBG6m/+KJrfcmIHRgLZ3Ekq4J39pwBht27lbvlniolFexmk+yqnubKELyEW/nbv1d3Yx82z7Cw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-08-31T13:01:33.405Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="HkitDql2i3LpRncN9pHw" version="13.6.6" type="github">
+  <diagram id="4dUsiJoH9ZfYqGRdszvZ" name="Page-1">
+    <mxGraphModel dx="1038" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2AzPYFqC1VUpjirZMAyk-1" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="40" y="30" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R33rQzYfuyyXuHmHLndq-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R33rQzYfuyyXuHmHLndq-1" target="R33rQzYfuyyXuHmHLndq-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R33rQzYfuyyXuHmHLndq-1" value="&lt;font style=&quot;font-size: 8px&quot;&gt;Welcome the players and explain the rules of the game&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;align=left;" vertex="1" parent="1">
+          <mxGeometry x="20" y="90" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R33rQzYfuyyXuHmHLndq-2" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="2AzPYFqC1VUpjirZMAyk-1" target="R33rQzYfuyyXuHmHLndq-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="320" as="sourcePoint" />
+            <mxPoint x="450" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R33rQzYfuyyXuHmHLndq-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R33rQzYfuyyXuHmHLndq-8" target="R33rQzYfuyyXuHmHLndq-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R33rQzYfuyyXuHmHLndq-8" value="&lt;span style=&quot;font-size: 9px&quot;&gt;Shuffle the deck of cards and divide it into two&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="22.5" y="190" width="85" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R33rQzYfuyyXuHmHLndq-16" value="&lt;span style=&quot;font-size: 9px&quot;&gt;Player 1 choose&amp;nbsp;if heads or tails&lt;/span&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="15" y="290" width="100" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
